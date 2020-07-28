@@ -1,0 +1,262 @@
+html {
+    height: 100%;
+}
+
+body {
+    height: 100%;
+}
+
+.content {
+    min-height: 100%;
+    margin-bottom: 500px;
+}
+.navbar-nav {
+    float: right;
+    position: relative;
+    top: 50px;
+}
+
+.navbar {
+    background-color: #282343;
+}
+
+.navbar_text {
+    color: #9B9BD4;
+    font-family: 'Arvo', Georgia, Times, serif;
+    font-size: 20px;
+    line-height: 70px;
+}
+
+.navbar_text2 {
+    color: #9B9BD4;
+    font-family: 'Arvo', Georgia, Times, serif;
+    font-size: 19px;
+    line-height: 70px;
+}
+
+.navbar-brand {
+    color: #9B9BD4;
+    font-family: 'Arvo', Georgia, Times, serif;
+    font-size: 39px;
+    line-height: 150px;
+    padding: 0px;
+}
+
+.brand {
+    float: left;
+    display: inline-block;
+}
+
+.logo {
+    height: 120px;
+    width: auto;
+}
+
+nav {
+    height: 140px;
+}
+
+.back_image {
+    opacity: 0.3;
+    position: absolute;
+    top: 137px;
+    height: available;
+    width: 100%;
+    overflow: hidden;
+}
+
+.back_image3 {
+    opacity: 0.3;
+    position: absolute;
+    top: 137px;
+    height: available;
+    width: 100%;
+    overflow: hidden;
+}
+
+.back_image2 {
+    opacity: 0.3;
+    position: absolute;
+    top: 2137px;
+    height: available;
+    width: 100%;
+    overflow: hidden;
+}
+
+.side_image_1 {
+    float: right;
+    display: inline-block;
+}
+
+.side_image_2 {
+    float: left;
+    display: inline-block;
+}
+
+.index_panel_h {
+    display: inline-block;
+    width: 100%;
+}
+
+.p_heading_text {
+    font-family: 'Corben', Georgia, Times, serif;
+    font-size: 110px;
+    line-height: 55px;
+}
+
+.p_body_text {
+    font-family: 'Nobile', Helvetica, Arial, sans-serif;
+    font-size: 23px;
+    line-height: 35px;
+}
+
+.jumbo_head {
+    font: 400 100px/1.3 'Arizonia', Helvetica, sans-serif;
+    color: #2b2b2b;
+    text-shadow: 4px 4px 0px rgba(0,0,0,0.1); 
+}
+
+.jumbo_con {
+    font: 400 100px/1.3 'Berkshire Swash', Helvetica, sans-serif;
+    color: #2b2b2b;
+    text-shadow: 1px 1px 0px #ededed, 4px 4px 0px rgba(0,0,0,0.15);
+}
+
+.divider {
+    border-right: 15px #9B9BD4 groove;
+    height: 500px;
+}
+
+.login_header {
+    font-family: 'Ubuntu', Helvetica, Arial, sans-serif;
+    font-size: 35px;
+    line-height: 65px;
+}
+
+.login_body {
+    font-family: 'Vollkorn', Georgia, Times, serif;
+    font-size: 16px;
+    line-height: 25px;
+}
+
+.log_btn {
+    font: 400 50px/1.3 'Lobster Two', Helvetica, sans-serif;
+    color: #2b2b2b;
+    text-shadow: 1px 1px 0px #ededed, 4px 4px 0px rgba(0,0,0,0.15);
+}
+
+.event_head {
+    font-family: 'Lobster', Georgia, Times, serif;
+    font-size: 70px;
+    line-height: 100px;
+}
+
+.event_text {
+    font-family: 'Cabin', Helvetica, Arial, sans-serif;
+    font-size: 15px;
+    line-height: 25px;
+}
+
+.foot_head {
+    font-family: 'Raleway', Helvetica, Arial, sans-serif;
+    font-size: 50px;
+    line-height: 70px;
+}
+
+.foot_body {
+    font-family: 'Crimson Text', Georgia, Times, serif;
+    font-size: 26px;
+    line-height: 30px;
+}
+
+footer {
+    width: 100%;
+    background: #BBE7E7;
+    position: relative;
+}
+
+.school_name {
+    font: 400 130px/0.8 'Great Vibes', Helvetica, sans-serif;
+    color: #fff;
+    text-shadow: 4px 4px 3px rgba(0,0,0,0.1); 
+}
+
+.welcome_head {
+    font-family: 'Ubuntu', Helvetica, Arial, sans-serif;
+    font-size: 50px;
+    line-height: 65px;    
+}
+
+.welcome_body {
+    font-family: 'Vollkorn', Georgia, Times, serif;
+    font-size: 16px;
+    line-height: 25px;
+}
+
+.welcome_tag {
+    color: grey;
+    font-family: 'Dancing Script', Georgia, Times, serif;
+    font-size: 24px;
+    line-height: 60px;
+    position: absolute;
+    right: 20px;
+}
+
+.pro_head {
+    font-family: 'Arvo', Georgia, Times, serif;
+    font-size: 59px;
+    line-height: 70px;
+}
+
+.pro_name {
+    font-family: 'Droid Serif', Georgia, Times, serif;
+    font-size: 40px;
+    line-height: 65px;
+}
+
+.pro_val {
+    font-family: 'Allan', Helvetica, Arial, sans-serif;
+    font-size: 40px;
+    line-height: 65px;
+}
+
+.pro_col {
+    border-style: outset;
+    border-width: 5px;
+    border-color: #006666;
+    border-radius: 5px;
+}
+
+.top_img {
+    position: absolute;
+    top: 137px;
+    width: 100%;
+    overflow: hidden;
+    left: 0px;
+}
+
+.about_text {
+    font-family: 'Josefin Sans', Helvetica, Arial, sans-serif;
+    font-size: 18px;
+    line-height: 25px;
+    margin-top: 15px;
+}
+
+.cal_head {
+    font-family: 'Molengo', Georgia, Times, serif;
+    font-size: 56px;
+    line-height: 80px;
+}
+
+.cal_body {
+    font-family: 'Lekton', Helvetica, Arial, sans-serif;
+    font-size: 25px;
+    line-height: 25px;
+    font-weight: bold;
+}
+
+.cal_btn {
+    font-family: 'Molengo', Georgia, Times, serif;
+    font-size: 26px;
+    line-height: 30px;
+}
